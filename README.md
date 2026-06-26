@@ -68,3 +68,4 @@ Deploying high-throughput VQA frameworks inside enterprise production stacks int
 | **Autonomous Edge Robotics & Industrial Inspection** | **Application:** Drives quality control pipelines on factory assembly lines. Automated camera arms scan completed products, and the system evaluates compliance via automated diagnostic VQA routines (e.g., `"Are all six copper pins fully seated inside the connector plug grid?"`), halting the conveyor belt if a structural deviation is identified. | 2023 | [Sermanet et al. (ICRA 2024)](https://arxiv.org/abs/2311.00926) |
 
 <!-- awesome link check -->
+<!-- fixed star plot -->
