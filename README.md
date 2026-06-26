@@ -67,5 +67,13 @@ Deploying high-throughput VQA frameworks inside enterprise production stacks int
 | **Assistive Vision Technology for the Visually Impaired** | **Application:** Deployed inside smart wearable spectacles or mobile software apps. Visually impaired users navigate physical surroundings by asking continuous, real-time vocal questions (e.g., `"Is this medicine bottle the 50mg dose or the 100mg dose?"`), and the VQA chip reads and interprets the objects out loud. | 2018 | [Gurari et al. (CVPR 2018)](https://arxiv.org/abs/1802.08218) |
 | **Autonomous Edge Robotics & Industrial Inspection** | **Application:** Drives quality control pipelines on factory assembly lines. Automated camera arms scan completed products, and the system evaluates compliance via automated diagnostic VQA routines (e.g., `"Are all six copper pins fully seated inside the connector plug grid?"`), halting the conveyor belt if a structural deviation is identified. | 2023 | [Sermanet et al. (ICRA 2024)](https://arxiv.org/abs/2311.00926) |
 
-<!-- awesome link check -->
-<!-- fixed star plot -->
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Visual-Question-Answering&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Visual-Question-Answering&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Visual-Question-Answering&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Visual-Question-Answering&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
