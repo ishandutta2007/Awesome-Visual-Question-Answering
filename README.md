@@ -1,11 +1,26 @@
-# Awesome-Visual-Question-Answering
-## Visual Question Answering (VQA): Evolution, Variants, Types, & Applications
+# Awesome Visual Question Answering (VQA) 🖼️❓
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Visual Question Answering Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Visual-Question-Answering?style=flat-square&color=blue" alt="License">
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Visual-Question-Answering?style=flat-square&color=gold" alt="Stars">
+  <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Visual-Question-Answering?style=flat-square&color=orange" alt="Forks">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 📖 Visual Question Answering (VQA): Evolution, Variants, Types, & Applications
 
 Visual Question Answering (VQA) is a core multimodal computer vision and natural language processing paradigm where an AI system must provide a correct natural language answer to an open-ended question based on a given input image. VQA transitions machine perception from isolated task heads (like simple object classification or object bounding) to dynamic, human-like conceptual reasoning. To succeed, a VQA engine must simultaneously parse the visual geometry of a scene, interpret the linguistic intent of a question, extract semantic spatial relationships, and frequently cross-reference the input with external world knowledge.
 
 ---
 
-## 1. The Chronological Evolution
+## ⏳ 1. The Chronological Evolution
 
 The technical implementation of visual reasoning has transitioned from rigid, shallow feature fusions to modular reasoning networks, moving toward native unified multi-modal autoencoding foundations.
 
@@ -24,7 +39,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Task Variants
+## 🧩 2. Core Functional & Task Variants
 
 VQA systems are explicitly categorized based on the underlying reasoning structure required to answer a question.
 
@@ -36,7 +51,7 @@ VQA systems are explicitly categorized based on the underlying reasoning structu
 
 ---
 
-## 3. Structural Evaluation Space Modalities
+## 👁️ 3. Structural Evaluation Space Modalities
 
 Depending on the underlying layout constraints of the target document or visual stream, VQA engines deploy specialized internal processing front-ends.
 
@@ -48,7 +63,7 @@ Depending on the underlying layout constraints of the target document or visual 
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## ⚙️ 4. Production Engineering Challenges & Mitigations
 
 Deploying high-throughput VQA frameworks inside enterprise production stacks introduces severe prompt-budget inflation and object hallucination penalties.
 
@@ -59,7 +74,7 @@ Deploying high-throughput VQA frameworks inside enterprise production stacks int
 
 ---
 
-## 5. Frontier Real-World Applications
+## 🚀 5. Frontier Real-World Applications
 
 | Application | Description & Use Case | Year First Used | Pioneering Paper |
 | :--- | :--- | :---: | :--- |
