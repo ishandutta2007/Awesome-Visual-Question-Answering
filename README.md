@@ -10,7 +10,10 @@ Visual Question Answering (VQA) is a core multimodal computer vision and natural
 The technical implementation of visual reasoning has transitioned from rigid, shallow feature fusions to modular reasoning networks, moving toward native unified multi-modal autoencoding foundations.
 
 ```mermaid
-[Joint Feature Fusion (2015-2018)] ----> [Modular & Neuro-Symbolic (2018-2021)] ----> [Native Unified VLMs (2022-Present)](Shallow CNN + LSTM Linear Pooling)      (Explicit Spatial Reasoning Graphs)          (Unified Interleaved Token Backbones)
+flowchart LR
+    A["Joint Feature Fusion (2015-2018)<br/>(Shallow CNN + LSTM Linear Pooling)"]
+    --> B["Modular & Neuro-Symbolic (2018-2021)<br/>(Explicit Spatial Reasoning Graphs)"]
+    --> C["Native Unified VLMs (2022-Present)<br/>(Unified Interleaved Token Backbones)"]
 ```
 
 *   **The Joint Feature Fusion Era (~2015–2018)**
